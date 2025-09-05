@@ -1,4 +1,4 @@
-# ScenarioBasedHistoryMatching
+# Scenario-Based Subsurface Modeling
 
 
 The GAN we train here is a WGAN-GP. 
